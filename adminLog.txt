@@ -1,0 +1,346 @@
+2021-11-10 16:43:21 [NO IP] Starting server with the following args:
+2021-11-10 16:43:21 [NO IP] servPort=2012
+2021-11-10 16:43:21 [NO IP] numReqs=3
+2021-11-10 16:43:21 [NO IP] numSecs=60
+2021-11-10 16:43:21 [NO IP] maxUsers=3
+2021-11-10 16:43:21 [NO IP] timeOut=80
+2021-11-10 16:43:25 [NO IP] numUsersConnected=1
+2021-11-10 16:43:25 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 16:43:25 [127.0.0.1] Server receives the following data:
+2021-11-10 16:43:25 [127.0.0.1] fileSize=8831
+2021-11-10 16:43:25 [127.0.0.1] Server sends the following data:
+2021-11-10 16:43:25 [127.0.0.1] retCode=0
+2021-11-10 16:43:26 [127.0.0.1] urlLen=38
+2021-11-10 16:43:26 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 16:43:26 [127.0.0.1] Server receives the following data:
+2021-11-10 16:43:28 [127.0.0.1] fileSize=8831
+2021-11-10 16:43:28 [127.0.0.1] Server sends the following data:
+2021-11-10 16:43:28 [127.0.0.1] retCode=0
+2021-11-10 16:43:28 [127.0.0.1] urlLen=38
+2021-11-10 16:43:28 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 16:43:28 [127.0.0.1] Server receives the following data:
+2021-11-10 16:43:30 [127.0.0.1] fileSize=8831
+2021-11-10 16:43:30 [127.0.0.1] Server sends the following data:
+2021-11-10 16:43:30 [127.0.0.1] retCode=0
+2021-11-10 16:43:30 [127.0.0.1] urlLen=38
+2021-11-10 16:43:30 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 16:43:30 [127.0.0.1] Server receives the following data:
+2021-11-10 16:43:32 [127.0.0.1] Error: Rate limit exceeded!
+2021-11-10 16:43:33 [127.0.0.1] Server receives the following data:
+2021-11-10 16:43:33 [127.0.0.1] fileSize=1196314761
+2021-11-10 16:43:33 [127.0.0.1] Error: Too many bytes recieved!
+2021-11-10 16:43:33 [NO IP] numUsersConnected=0
+2021-11-10 16:44:54 [NO IP] Starting server with the following args:
+2021-11-10 16:44:54 [NO IP] servPort=2012
+2021-11-10 16:44:54 [NO IP] numReqs=2
+2021-11-10 16:44:54 [NO IP] numSecs=10
+2021-11-10 16:44:54 [NO IP] maxUsers=3
+2021-11-10 16:44:54 [NO IP] timeOut=80
+2021-11-10 16:45:20 [NO IP] numUsersConnected=1
+2021-11-10 16:45:20 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 16:45:20 [127.0.0.1] Server receives the following data:
+2021-11-10 16:45:20 [127.0.0.1] fileSize=8831
+2021-11-10 16:45:20 [127.0.0.1] Server sends the following data:
+2021-11-10 16:45:20 [127.0.0.1] retCode=0
+2021-11-10 16:45:20 [127.0.0.1] urlLen=38
+2021-11-10 16:45:20 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 16:45:20 [127.0.0.1] Server receives the following data:
+2021-11-10 16:45:22 [127.0.0.1] fileSize=8831
+2021-11-10 16:45:22 [127.0.0.1] Server sends the following data:
+2021-11-10 16:45:22 [127.0.0.1] retCode=0
+2021-11-10 16:45:23 [127.0.0.1] urlLen=38
+2021-11-10 16:45:23 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 16:45:23 [127.0.0.1] Server receives the following data:
+2021-11-10 16:45:25 [127.0.0.1] Error: Rate limit exceeded!
+2021-11-10 16:45:26 [127.0.0.1] Server receives the following data:
+2021-11-10 16:45:26 [127.0.0.1] fileSize=1196314761
+2021-11-10 16:45:26 [127.0.0.1] Error: Too many bytes recieved!
+2021-11-10 16:45:26 [NO IP] numUsersConnected=0
+2021-11-10 16:52:31 [NO IP] numUsersConnected=1
+2021-11-10 16:52:31 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 16:52:31 [127.0.0.1] Server receives the following data:
+2021-11-10 16:52:31 [127.0.0.1] fileSize=8831
+2021-11-10 16:52:31 [127.0.0.1] Server sends the following data:
+2021-11-10 16:52:31 [127.0.0.1] retCode=0
+2021-11-10 16:52:31 [127.0.0.1] urlLen=38
+2021-11-10 16:52:31 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 16:52:31 [127.0.0.1] Server receives the following data:
+2021-11-10 16:52:33 [127.0.0.1] fileSize=8831
+2021-11-10 16:52:33 [127.0.0.1] Server sends the following data:
+2021-11-10 16:52:33 [127.0.0.1] retCode=0
+2021-11-10 16:52:34 [127.0.0.1] urlLen=38
+2021-11-10 16:52:34 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 16:52:34 [127.0.0.1] Server receives the following data:
+2021-11-10 16:52:36 [127.0.0.1] Error: Rate limit exceeded!
+2021-11-10 16:52:37 [127.0.0.1] Server receives the following data:
+2021-11-10 16:52:37 [127.0.0.1] fileSize=1196314761
+2021-11-10 16:52:37 [127.0.0.1] Error: Too many bytes recieved!
+2021-11-10 16:52:37 [NO IP] numUsersConnected=0
+2021-11-10 18:14:52 [NO IP] Starting server with the following args:
+2021-11-10 18:14:52 [NO IP] servPort=2012
+2021-11-10 18:14:52 [NO IP] numReqs=3
+2021-11-10 18:14:52 [NO IP] numSecs=60
+2021-11-10 18:14:52 [NO IP] maxUsers=3
+2021-11-10 18:14:52 [NO IP] timeOut=80
+2021-11-10 18:23:25 [NO IP] Starting server with the following args:
+2021-11-10 18:23:25 [NO IP] servPort=2012
+2021-11-10 18:23:25 [NO IP] numReqs=3
+2021-11-10 18:23:25 [NO IP] numSecs=60
+2021-11-10 18:23:25 [NO IP] maxUsers=3
+2021-11-10 18:23:25 [NO IP] timeOut=80
+2021-11-10 18:23:34 [NO IP] Starting server with the following args:
+2021-11-10 18:23:34 [NO IP] servPort=2012
+2021-11-10 18:23:34 [NO IP] numReqs=3
+2021-11-10 18:23:34 [NO IP] numSecs=60
+2021-11-10 18:23:34 [NO IP] maxUsers=3
+2021-11-10 18:23:34 [NO IP] timeOut=80
+2021-11-10 18:25:49 [NO IP] Starting server with the following args:
+2021-11-10 18:25:49 [NO IP] servPort=2012
+2021-11-10 18:25:49 [NO IP] numReqs=3
+2021-11-10 18:25:49 [NO IP] numSecs=60
+2021-11-10 18:25:49 [NO IP] maxUsers=3
+2021-11-10 18:25:49 [NO IP] timeOut=80
+2021-11-10 18:26:48 [NO IP] Starting server with the following args:
+2021-11-10 18:26:48 [NO IP] servPort=2012
+2021-11-10 18:26:48 [NO IP] numReqs=3
+2021-11-10 18:26:48 [NO IP] numSecs=60
+2021-11-10 18:26:48 [NO IP] maxUsers=3
+2021-11-10 18:26:48 [NO IP] timeOut=80
+2021-11-10 18:26:58 [NO IP] Starting server with the following args:
+2021-11-10 18:26:58 [NO IP] servPort=2012
+2021-11-10 18:26:58 [NO IP] numReqs=3
+2021-11-10 18:26:58 [NO IP] numSecs=60
+2021-11-10 18:26:58 [NO IP] maxUsers=3
+2021-11-10 18:26:58 [NO IP] timeOut=80
+2021-11-10 18:29:04 [NO IP] Starting server with the following args:
+2021-11-10 18:29:04 [NO IP] servPort=2012
+2021-11-10 18:29:04 [NO IP] numReqs=3
+2021-11-10 18:29:04 [NO IP] numSecs=60
+2021-11-10 18:29:04 [NO IP] maxUsers=3
+2021-11-10 18:29:04 [NO IP] timeOut=80
+2021-11-10 18:29:11 [NO IP] Starting server with the following args:
+2021-11-10 18:29:11 [NO IP] servPort=6969
+2021-11-10 18:29:11 [NO IP] numReqs=3
+2021-11-10 18:29:11 [NO IP] numSecs=60
+2021-11-10 18:29:11 [NO IP] maxUsers=3
+2021-11-10 18:29:11 [NO IP] timeOut=80
+2021-11-10 18:30:56 [NO IP] Starting server with the following args:
+2021-11-10 18:30:56 [NO IP] servPort=2012
+2021-11-10 18:30:56 [NO IP] numReqs=3
+2021-11-10 18:30:56 [NO IP] numSecs=60
+2021-11-10 18:30:56 [NO IP] maxUsers=3
+2021-11-10 18:30:56 [NO IP] timeOut=80
+2021-11-10 18:31:09 [NO IP] Starting server with the following args:
+2021-11-10 18:31:09 [NO IP] servPort=6969
+2021-11-10 18:31:09 [NO IP] numReqs=3
+2021-11-10 18:31:09 [NO IP] numSecs=60
+2021-11-10 18:31:09 [NO IP] maxUsers=3
+2021-11-10 18:31:09 [NO IP] timeOut=80
+2021-11-10 18:31:58 [NO IP] Starting server with the following args:
+2021-11-10 18:31:58 [NO IP] servPort=696969
+2021-11-10 18:31:58 [NO IP] numReqs=24
+2021-11-10 18:31:58 [NO IP] numSecs=23
+2021-11-10 18:31:58 [NO IP] maxUsers=5
+2021-11-10 18:31:58 [NO IP] timeOut=23
+2021-11-10 18:34:36 [NO IP] Starting server with the following args:
+2021-11-10 18:34:36 [NO IP] servPort=2012
+2021-11-10 18:34:36 [NO IP] numReqs=3
+2021-11-10 18:34:36 [NO IP] numSecs=60
+2021-11-10 18:34:36 [NO IP] maxUsers=3
+2021-11-10 18:34:36 [NO IP] timeOut=80
+2021-11-10 18:34:53 [NO IP] numUsersConnected=1
+2021-11-10 18:34:53 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 18:34:53 [127.0.0.1] Server receives the following data:
+2021-11-10 18:34:53 [127.0.0.1] fileSize=8831
+2021-11-10 18:34:53 [127.0.0.1] Server sends the following data:
+2021-11-10 18:34:53 [127.0.0.1] retCode=0
+2021-11-10 18:34:53 [127.0.0.1] urlLen=38
+2021-11-10 18:34:53 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 18:34:53 [127.0.0.1] Server receives the following data:
+2021-11-10 18:34:55 [127.0.0.1] fileSize=8831
+2021-11-10 18:34:55 [127.0.0.1] Server sends the following data:
+2021-11-10 18:34:55 [127.0.0.1] retCode=0
+2021-11-10 18:34:55 [127.0.0.1] urlLen=38
+2021-11-10 18:34:55 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 18:34:55 [127.0.0.1] Server receives the following data:
+2021-11-10 18:34:57 [127.0.0.1] fileSize=8831
+2021-11-10 18:34:57 [127.0.0.1] Server sends the following data:
+2021-11-10 18:34:57 [127.0.0.1] retCode=0
+2021-11-10 18:34:58 [127.0.0.1] urlLen=38
+2021-11-10 18:34:58 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 18:34:58 [127.0.0.1] Server receives the following data:
+2021-11-10 18:35:00 [127.0.0.1] Error: Rate limit exceeded!
+2021-11-10 18:35:01 [127.0.0.1] Server receives the following data:
+2021-11-10 18:35:01 [127.0.0.1] fileSize=1196314761
+2021-11-10 18:35:01 [127.0.0.1] Error: Too many bytes recieved!
+2021-11-10 18:35:01 [NO IP] numUsersConnected=0
+2021-11-10 18:37:32 [NO IP] numUsersConnected=1
+2021-11-10 18:37:32 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 18:37:32 [127.0.0.1] Server receives the following data:
+2021-11-10 18:37:33 [127.0.0.1] Error: recv() failed!
+2021-11-10 18:37:33 [NO IP] numUsersConnected=0
+2021-11-10 18:39:34 [NO IP] Starting server with the following args:
+2021-11-10 18:39:34 [NO IP] servPort=2012
+2021-11-10 18:39:34 [NO IP] numReqs=3
+2021-11-10 18:39:34 [NO IP] numSecs=60
+2021-11-10 18:39:34 [NO IP] maxUsers=3
+2021-11-10 18:39:34 [NO IP] timeOut=80
+2021-11-10 18:39:47 [NO IP] numUsersConnected=1
+2021-11-10 18:39:47 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 18:39:47 [127.0.0.1] Server receives the following data:
+2021-11-10 18:39:47 [127.0.0.1] fileSize=8831
+2021-11-10 18:39:47 [127.0.0.1] Server sends the following data:
+2021-11-10 18:39:47 [127.0.0.1] retCode=0
+2021-11-10 18:39:48 [127.0.0.1] urlLen=38
+2021-11-10 18:39:48 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 18:39:48 [127.0.0.1] Server receives the following data:
+2021-11-10 18:39:50 [127.0.0.1] fileSize=8831
+2021-11-10 18:39:50 [127.0.0.1] Server sends the following data:
+2021-11-10 18:39:50 [127.0.0.1] retCode=0
+2021-11-10 18:39:50 [127.0.0.1] urlLen=38
+2021-11-10 18:39:50 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 18:39:50 [127.0.0.1] Server receives the following data:
+2021-11-10 18:39:52 [127.0.0.1] fileSize=8831
+2021-11-10 18:39:52 [127.0.0.1] Server sends the following data:
+2021-11-10 18:39:52 [127.0.0.1] retCode=0
+2021-11-10 18:39:52 [127.0.0.1] urlLen=38
+2021-11-10 18:39:52 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 18:39:52 [127.0.0.1] Server receives the following data:
+2021-11-10 18:39:54 [127.0.0.1] Error: Rate limit exceeded!
+2021-11-10 18:39:55 [127.0.0.1] Server receives the following data:
+2021-11-10 18:39:55 [127.0.0.1] fileSize=1196314761
+2021-11-10 18:39:55 [127.0.0.1] Error: Too many bytes recieved!
+2021-11-10 18:39:55 [NO IP] numUsersConnected=0
+2021-11-10 18:40:05 [NO IP] numUsersConnected=1
+2021-11-10 18:40:05 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 18:40:05 [127.0.0.1] Server receives the following data:
+2021-11-10 18:40:05 [127.0.0.1] fileSize=8831
+2021-11-10 18:40:05 [127.0.0.1] Server sends the following data:
+2021-11-10 18:40:05 [127.0.0.1] retCode=0
+2021-11-10 18:40:06 [127.0.0.1] urlLen=38
+2021-11-10 18:40:06 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 18:40:06 [127.0.0.1] Server receives the following data:
+2021-11-10 18:40:08 [127.0.0.1] fileSize=8831
+2021-11-10 18:40:08 [127.0.0.1] Server sends the following data:
+2021-11-10 18:40:08 [127.0.0.1] retCode=0
+2021-11-10 18:40:08 [127.0.0.1] urlLen=38
+2021-11-10 18:40:08 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 18:40:08 [127.0.0.1] Server receives the following data:
+2021-11-10 18:40:10 [127.0.0.1] fileSize=8831
+2021-11-10 18:40:10 [127.0.0.1] Server sends the following data:
+2021-11-10 18:40:10 [127.0.0.1] retCode=0
+2021-11-10 18:40:11 [127.0.0.1] urlLen=38
+2021-11-10 18:40:11 [127.0.0.1] url=https://www.wpi-clicker.herokuapp.com
+
+2021-11-10 18:40:11 [127.0.0.1] Server receives the following data:
+2021-11-10 18:40:13 [127.0.0.1] Error: Rate limit exceeded!
+2021-11-10 18:40:14 [127.0.0.1] Server receives the following data:
+2021-11-10 18:40:14 [127.0.0.1] fileSize=1196314761
+2021-11-10 18:40:14 [127.0.0.1] Error: Too many bytes recieved!
+2021-11-10 18:40:14 [NO IP] numUsersConnected=0
+2021-11-10 18:41:28 [NO IP] numUsersConnected=1
+2021-11-10 18:41:28 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 18:41:28 [127.0.0.1] Server receives the following data:
+2021-11-10 18:41:28 [127.0.0.1] fileSize=63432
+2021-11-10 18:41:28 [127.0.0.1] Server sends the following data:
+2021-11-10 18:41:28 [127.0.0.1] retCode=0
+2021-11-10 18:41:28 [127.0.0.1] urlLen=73
+2021-11-10 18:41:28 [127.0.0.1] url=file:/home/liam/Documents/GitHub/cs3516/img/006576.png: No barcode found
+
+2021-11-10 18:41:28 [127.0.0.1] Server receives the following data:
+2021-11-10 18:41:30 [127.0.0.1] fileSize=63432
+2021-11-10 18:41:30 [127.0.0.1] Server sends the following data:
+2021-11-10 18:41:30 [127.0.0.1] retCode=0
+2021-11-10 18:41:30 [127.0.0.1] urlLen=73
+2021-11-10 18:41:30 [127.0.0.1] url=file:/home/liam/Documents/GitHub/cs3516/img/000735.png: No barcode found
+
+2021-11-10 18:41:30 [127.0.0.1] Server receives the following data:
+2021-11-10 18:41:32 [127.0.0.1] fileSize=63432
+2021-11-10 18:41:32 [127.0.0.1] Server sends the following data:
+2021-11-10 18:41:32 [127.0.0.1] retCode=0
+2021-11-10 18:41:33 [127.0.0.1] urlLen=73
+2021-11-10 18:41:33 [127.0.0.1] url=file:/home/liam/Documents/GitHub/cs3516/img/034205.png: No barcode found
+
+2021-11-10 18:41:33 [127.0.0.1] Server receives the following data:
+2021-11-10 18:41:35 [127.0.0.1] Error: Rate limit exceeded!
+2021-11-10 18:41:36 [127.0.0.1] Server receives the following data:
+2021-11-10 18:41:36 [127.0.0.1] fileSize=-520103681
+2021-11-10 18:41:36 [127.0.0.1] Error: Too many bytes recieved!
+2021-11-10 18:41:36 [NO IP] numUsersConnected=0
+2021-11-10 18:42:29 [NO IP] Starting server with the following args:
+2021-11-10 18:42:29 [NO IP] servPort=2012
+2021-11-10 18:42:29 [NO IP] numReqs=3
+2021-11-10 18:42:29 [NO IP] numSecs=60
+2021-11-10 18:42:29 [NO IP] maxUsers=3
+2021-11-10 18:42:29 [NO IP] timeOut=80
+2021-11-10 18:42:31 [NO IP] numUsersConnected=1
+2021-11-10 18:42:31 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 18:42:31 [127.0.0.1] Server receives the following data:
+2021-11-10 18:42:31 [127.0.0.1] fileSize=63432
+2021-11-10 18:42:31 [127.0.0.1] Server sends the following data:
+2021-11-10 18:42:31 [127.0.0.1] retCode=0
+2021-11-10 18:42:31 [127.0.0.1] urlLen=73
+2021-11-10 18:42:31 [127.0.0.1] url=file:/home/liam/Documents/GitHub/cs3516/img/012017.png: No barcode found
+
+2021-11-10 18:42:31 [127.0.0.1] Server receives the following data:
+2021-11-10 18:42:33 [127.0.0.1] Error: recv() failed!
+2021-11-10 18:42:33 [NO IP] numUsersConnected=0
+2021-11-10 18:43:21 [NO IP] numUsersConnected=1
+2021-11-10 18:43:21 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 18:43:21 [127.0.0.1] Server receives the following data:
+2021-11-10 18:43:21 [127.0.0.1] fileSize=63432
+2021-11-10 18:43:21 [127.0.0.1] Server sends the following data:
+2021-11-10 18:43:21 [127.0.0.1] retCode=0
+2021-11-10 18:43:21 [127.0.0.1] urlLen=73
+2021-11-10 18:43:21 [127.0.0.1] url=file:/home/liam/Documents/GitHub/cs3516/img/031117.png: No barcode found
+
+2021-11-10 18:43:21 [127.0.0.1] Server receives the following data:
+2021-11-10 18:43:23 [127.0.0.1] Error: recv() failed!
+2021-11-10 18:43:23 [NO IP] numUsersConnected=0
+2021-11-10 18:52:33 [NO IP] Starting server with the following args:
+2021-11-10 18:52:33 [NO IP] servPort=2012
+2021-11-10 18:52:33 [NO IP] numReqs=3
+2021-11-10 18:52:33 [NO IP] numSecs=60
+2021-11-10 18:52:33 [NO IP] maxUsers=3
+2021-11-10 18:52:33 [NO IP] timeOut=80
+2021-11-10 18:52:41 [NO IP] numUsersConnected=1
+2021-11-10 18:52:41 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 18:52:41 [127.0.0.1] Server receives the following data:
+2021-11-10 18:52:41 [127.0.0.1] fileSize=63432
+2021-11-10 18:52:41 [127.0.0.1] Server sends the following data:
+2021-11-10 18:52:41 [127.0.0.1] retCode=0
+2021-11-10 18:52:42 [127.0.0.1] urlLen=73
+2021-11-10 18:52:42 [127.0.0.1] Error: no barcode found!
+2021-11-10 18:52:42 [127.0.0.1] url=file:/home/liam/Documents/GitHub/cs3516/img/047442.png: No barcode found
+
+2021-11-10 18:52:42 [127.0.0.1] Server receives the following data:
+2021-11-10 18:52:44 [127.0.0.1] Error: recv() failed!
+2021-11-10 18:52:44 [NO IP] numUsersConnected=0
+2021-11-10 18:52:55 [NO IP] numUsersConnected=1
+2021-11-10 18:52:55 [127.0.0.1] Handling client 127.0.0.1 on socket 4!
+2021-11-10 18:52:55 [127.0.0.1] Server receives the following data:
+2021-11-10 18:52:55 [127.0.0.1] fileSize=63432
+2021-11-10 18:52:55 [127.0.0.1] Server sends the following data:
+2021-11-10 18:52:55 [127.0.0.1] retCode=0
+2021-11-10 18:52:55 [127.0.0.1] urlLen=73
+2021-11-10 18:52:55 [127.0.0.1] Error: no barcode found!
+2021-11-10 18:52:55 [127.0.0.1] url=file:/home/liam/Documents/GitHub/cs3516/img/024703.png: No barcode found
+
+2021-11-10 18:52:55 [127.0.0.1] Server receives the following data:
+2021-11-10 18:52:57 [127.0.0.1] Error: recv() failed!
+2021-11-10 18:52:57 [NO IP] numUsersConnected=0
